@@ -1,5 +1,5 @@
 {
-  "name": "feedrapp",
+  "name": "feed-app-news",
   "version": "1.5.1",
   "description": "A service for parsing RSS and Atom feeds.",
   "main": "dist/index.js",
