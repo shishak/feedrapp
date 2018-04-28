@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "name": "feedr",
+    "name": "feed-app-news",
     "script": "bin/www",
     "cron_restart": "0 * * * *"
   }]
