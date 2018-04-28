@@ -1,4 +1,4 @@
-const TTL = 1 * 60 * 1000; // 30 minutes
+const TTL = 5 * 60 * 1000; // 30 minutes
 const memoryCache = require('memory-cache');
 const querystring = require('querystring');
 
